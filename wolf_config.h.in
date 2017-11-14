@@ -1,0 +1,3 @@
+#define wolf_VERSION_MAJOR @wolf_VERSION_MAJOR@
+#define wolf_VERSION_MINOR @wolf_VERSION_MINOR@
+#cmakedefine USE_MYMATH
